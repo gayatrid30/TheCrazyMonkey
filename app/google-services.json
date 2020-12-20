@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044534398682",
+    "project_id": "the-crazy-monkey-e6709",
+    "storage_bucket": "the-crazy-monkey-e6709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044534398682:android:ed03ec84d4ef9a426b1fe3",
+        "android_client_info": {
+          "package_name": "com.example.thecrazymonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044534398682-chkughcvpi1aehpo3ajpcos9padind5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtu9fVGVvg3i4_5H8HgJXmHoP7udD_tbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044534398682-chkughcvpi1aehpo3ajpcos9padind5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
